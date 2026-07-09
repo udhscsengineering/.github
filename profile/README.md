@@ -50,7 +50,7 @@ Our goal is to prepare students for careers in:
 
 ## 🌍 Website
 
-https://singular-baklava-b60927.netlify.app/
+https://agent-6a4fd54d7d4eb62b7--singular-baklava-b60927.netlify.app/
 
 ---
 
